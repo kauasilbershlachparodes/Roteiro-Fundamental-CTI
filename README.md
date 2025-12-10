@@ -153,8 +153,6 @@ Modelos e ferramentas criados para medir e planejar a evolução do programa CTI
 
 Documentos focados em roteiros, arquitetura técnica e operações diárias de um programa CTI.
 
-
-
 | Author | Description | Resource URL |
 | :--- | :--- | :--- |
 | [Recorded Future](https://recordedfuture.com) | *The Intelligence Handbook: Fourth Edition* - Roteiro detalhando a construção de um programa de segurança orientado por inteligência, útil para entender quais capacidades de TI precisam ser integradas. | [The Intelligence Handbook: Fourth Edition](https://go.recordedfuture.com/hubfs/ebooks/intelligence-handbook-fourth-edition.pdf) |
@@ -166,7 +164,10 @@ Documentos focados em roteiros, arquitetura técnica e operações diárias de u
 
 ### C. Competências do Analista de CTI
 
+Estrutura de Competências Essenciais do Analista de Inteligência de Ameaças Cibernéticas (CTI) da Mandiant.
+
 | Author | Description | Resource URL |
 | :--- | :--- | :--- |
 | [Mandiant](https://www.mandiant.com/) | *The Mandiant Cyber Threat Intelligence (CTI) Analyst Core Competencies Framework* - Estrutura que fornece orientação sobre o desenvolvimento de habilidades, progressão de carreira e o entendimento dos papéis e responsabilidades do analista de CTI. | [The Mandiant Cyber Threat Intelligence (CTI) Analyst Core Competencies Framework](https://www.mandiant.com/sites/default/files/2022-05/cti-analyst-core-competencies-framework-v1.pdf) |
+
 
