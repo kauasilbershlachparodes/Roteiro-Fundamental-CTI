@@ -76,8 +76,6 @@ Esta seção compila os modelos de ataque, defesa e análise mais importantes, s
 
 Modelos que descrevem as fases de um ataque, a dinâmica de resposta rápida (loop), e a relação entre indicadores de ameaça e o custo para o adversário.
 
-<img width="1195" height="489" alt="Capture" src="https://github.com/user-attachments/assets/b8acf6f3-4263-4706-bbc4-afc113cfaca9" />
-
 | Author | Description | Resource URL |
 | :--- | :--- | :--- |
 | [John Boyd](https://en.wikipedia.org/wiki/John_Boyd_(military_strategist)) | `The OODA loop` - is the cycle of observe–orient–decide–act. The approach explains how agility can overcome raw power in dealing with human opponents. It is especially applicable to cyber security and cyberwarfare. | [OODA\_Loop.html](https://en.wikipedia.org/wiki/OODA_loop) |
@@ -171,3 +169,4 @@ Documentos focados em roteiros, arquitetura técnica e operações diárias de u
 | Author | Description | Resource URL |
 | :--- | :--- | :--- |
 | [Mandiant](https://www.mandiant.com/) | *The Mandiant Cyber Threat Intelligence (CTI) Analyst Core Competencies Framework* - Estrutura que fornece orientação sobre o desenvolvimento de habilidades, progressão de carreira e o entendimento dos papéis e responsabilidades do analista de CTI. | [The Mandiant Cyber Threat Intelligence (CTI) Analyst Core Competencies Framework](https://www.mandiant.com/sites/default/files/2022-05/cti-analyst-core-competencies-framework-v1.pdf) |
+
