@@ -1,5 +1,4 @@
-
-<img width="640" height="339" alt="CTI" src="https://github.com/user-attachments/assets/5246c43d-072d-449f-83c7-415509a1314f" />
+<img width="1400" height="413" alt="CTI" src="https://github.com/user-attachments/assets/56270253-0f0b-4173-9250-2efdf41253c9" />
 
 ---
 
@@ -175,6 +174,7 @@ Estrutura de Competências Essenciais do Analista de Inteligência de Ameaças C
 | Author | Description | Resource URL |
 | :--- | :--- | :--- |
 | [Mandiant](https://www.mandiant.com/) | *The Mandiant Cyber Threat Intelligence (CTI) Analyst Core Competencies Framework* - Estrutura que fornece orientação sobre o desenvolvimento de habilidades, progressão de carreira e o entendimento dos papéis e responsabilidades do analista de CTI. | [The Mandiant Cyber Threat Intelligence (CTI) Analyst Core Competencies Framework](https://www.mandiant.com/sites/default/files/2022-05/cti-analyst-core-competencies-framework-v1.pdf) |
+
 
 
 
